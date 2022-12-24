@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Kruskal HTask\Kruskal HTask\bin\Debug\Kruskal HTask.exe.config
+C:\Users\User\Desktop\Kruskal HTask\Kruskal HTask\bin\Debug\Kruskal HTask.exe
+C:\Users\User\Desktop\Kruskal HTask\Kruskal HTask\bin\Debug\Kruskal HTask.pdb
+C:\Users\User\Desktop\Kruskal HTask\Kruskal HTask\obj\Debug\Kruskal HTask.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Kruskal HTask\Kruskal HTask\obj\Debug\Kruskal HTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kruskal HTask\Kruskal HTask\obj\Debug\Kruskal HTask.exe
+C:\Users\User\Desktop\Kruskal HTask\Kruskal HTask\obj\Debug\Kruskal HTask.pdb

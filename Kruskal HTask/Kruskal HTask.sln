@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kruskal HTask", "Kruskal HTask\Kruskal HTask.csproj", "{999039FC-5F00-4508-98D6-3381252AB5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999039FC-5F00-4508-98D6-3381252AB5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999039FC-5F00-4508-98D6-3381252AB5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999039FC-5F00-4508-98D6-3381252AB5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999039FC-5F00-4508-98D6-3381252AB5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB58495D-A901-4E7D-A59D-A827034A80FE}
+	EndGlobalSection
+EndGlobal
